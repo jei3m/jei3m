@@ -1,16 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Justin Miguel
-=====================================================================================================================================
+My name is Justin Miguel 👨🏻‍💻
+==============================
 
-Computer Engineering Student
-----------------------------
+I'm a dedicated and self-motivated Computer Engineering student with a passion for gaining hands-on experience in real-world projects. A strong communicator and team player, serving as the lead programmer in a collaborative thesis group, with a proven ability to adapt and learn quickly. Enthusiastic about applying technical skills, problem-solving abilities, and teamwork to contribute to the development of successful projects.
 
-Dedicated and self-motivated Computer Engineering student with a passion for gaining hands-on experience in real-world projects. A strong communicator and team player, serving as the lead programmer in a collaborative thesis group, with a proven ability to adapt and learn quickly. Enthusiastic about applying technical skills, problem-solving abilities, and teamwork to contribute to the development of successful projects.
 
-* 🌍  I'm based in Philippines
-* 🖥️  See my portfolio at [jeiem.site](http://jeiem.site)
+* 🌍  I'm based in the Philippines.
+* 🖥️  Checkout my portfolio at [jeiem.site](http://jeiem.site)
 * ✉️  You can contact me at [justinmiguel.rys03@gmail.com](mailto:justinmiguel.rys03@gmail.com)
 * 🚀  I'm currently working on [AI-Ponics](http://ai-ponics.netlify.app/)
-* 🧠  I'm learning Artificial Intelligence
+* 🧠  I'm learning more about Artificial Intelligence
 
 ### Skills
 
@@ -24,9 +22,7 @@ Dedicated and self-motivated Computer Engineering student with a passion for gai
 
 <p align="left"> <a href="https://www.facebook.com/justinmiguel.reyes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/jei3m" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_justinmiguel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/justin-miguel-reyes-175323327/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/jei3m"><img src="https://github-readme-stats.vercel.app/api?username=jei3m&show_icons=true&hide=prs,issues,&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jei3m's GitHub stats" /></a>
 
