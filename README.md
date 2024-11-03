@@ -31,13 +31,3 @@ Dedicated and self-motivated Computer Engineering student with a passion for gai
 <a href="http://www.github.com/jei3m"><img src="https://github-readme-stats.vercel.app/api?username=jei3m&show_icons=true&hide=prs,issues,&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jei3m's GitHub stats" /></a>
 
 <a href="http://www.github.com/jei3m"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jei3m&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/jei3m" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jei3m&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/jei3m/my-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jei3m&repo=my-portfolio&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/jei3m/scribe-ai" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jei3m&repo=scribe-ai&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/jei3m/ai-ponics" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jei3m&repo=ai-ponics&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/jei3m/ai-coder" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jei3m&repo=ai-coder&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
