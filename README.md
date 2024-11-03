@@ -30,12 +30,3 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jei3m&theme=apprentice&hide_border=false)<br/>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jei3m/jei3m/output/snake.svg" alt="Snake animation" />
-
-###
-
