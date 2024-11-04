@@ -20,8 +20,8 @@
   <a href="https://www.instagram.com/_justinmiguel/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="discordapp.com/users/267478844871540747" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://peerlist.io/jei3m" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Peerlist&logo=peerlist&label=&color=00AA45&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="peerlist logo"  />
   </a>
 </div>
 ➡️ Right-click any icon to open the link in a new tab!
