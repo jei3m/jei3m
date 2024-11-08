@@ -36,6 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jei3m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+## 🐍 Snek:
 <picture>
   ##<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jei3m/jei3m/output/github-snake-dark.svg" />
   ##<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jei3m/jei3m/output/github-snake.svg" />
