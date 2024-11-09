@@ -3,7 +3,6 @@
 * 🖥️  Check out my portfolio at [jeiem.site](http://jeiem.site) to see my latest projects and skills in action.
 * ✉️  Reach me at [justinmiguel.rys03@gmail.com](mailto:justinmiguel.rys03@gmail.com) for any project collaborations or inquiries.
 * 🚀  Currently developing [AI-Ponics](http://ai-ponics.netlify.app/), an aeroponic system integrating IoT and AI for plant growth.
-* 🔧  Skilled in multiple programming languages, web development, PC building, and basic mobile repair.
 * 🌱  Open to internships and project-based roles where I can apply and grow my skills in AI, IT, and web development.
 
 ## 🌐 Socials:
@@ -35,10 +34,3 @@
   <img src="https://streak-stats.demolab.com?user=jei3m&locale=en&mode=daily&theme=apprentice&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jei3m&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-## 🐍 Snek:
-<picture>
-  ##<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jei3m/jei3m/output/github-snake-dark.svg" />
-  ##<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jei3m/jei3m/output/github-snake.svg" />
-  ##<img alt="github-snake" src="https://raw.githubusercontent.com/jei3m/jei3m/output/github-snake.svg" />
-</picture>
