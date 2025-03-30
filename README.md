@@ -2,7 +2,6 @@
 * 📖  A 4th-year Computer Engineering student passionate about all things tech.
 * 🖥️  Check out my portfolio at [jeiem.site](http://jeiem.site) to checkout my projects and learn more about me.
 * ✉️  Reach me at [justinmiguel.rys03@gmail.com](mailto:justinmiguel.rys03@gmail.com) for any project collaborations or inquiries.
-* 🚀  Currently developing [AI-Ponics](http://ai-ponics.netlify.app/), an aeroponic system integrating IoT and AI for plant growth.
 * 🌱  Open to project-based roles where I can grow my skills in AI, IT, and web development.
 
 ## 🌐 Socials:
