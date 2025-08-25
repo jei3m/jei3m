@@ -1,8 +1,8 @@
 # 👨🏻‍💻 About Me:
-* 📖  Computer Engineering graduate and an aspiring Software Engineer.
+* 📖  Computer Engineering graduate and currently an Associate Backend Developer.
 * 🖥️  Check out my portfolio at [jeiem.site](http://jeiem.site) to checkout my projects and learn more about me.
 * ✉️  Reach me at [justinmiguel.rys03@gmail.com](mailto:justinmiguel.rys03@gmail.com) for any project collaborations or inquiries.
-* 🌱  Open to project-based roles where I can grow my skills in AI, IoT, and web development.
+* 🌱  Open to project-based roles where I can grow my skills in AI, IoT, and Web Development.
 
 ## 🌐 Socials:
 <div align="left">
